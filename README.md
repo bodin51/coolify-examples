@@ -46,3 +46,5 @@ category level (such as `frameworks/`) only when it has more than one category.
 The `internal/` folder holds Docker Compose test fixtures and issue reproducers
 for the Coolify compose parser. These are **not** deployment templates. See
 [`internal/README.md`](internal/README.md) for details.
+
+Testing automatic deployment via GitHub webhook.
